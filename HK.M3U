@@ -1,0 +1,196 @@
+#EXTINF:-1 tvg-id="mytv-J" tvg-name="TVB 翡翠台" tvg-logo="https://res.aliiptv.com/static/img/tvbjade_1789391690.png" group-title="港澳",TVB 翡翠台
+mshd://p2p.aliiptv.com/live/jade
+
+#EXTINF:-1 tvg-id="tvbanywhere-I-XHCC" tvg-name="TVB 星河" tvg-logo="https://res.aliiptv.com/static/img/tvbxh_1789391587.png" group-title="港澳",TVB 星河
+mshd://p2p.aliiptv.com/live/tvbxinghe
+
+#EXTINF:-1 tvg-id="mewatch-97104" tvg-name="新加坡8频道" tvg-logo="https://res.aliiptv.com/static/img/channel8_1789391704.png" group-title="其它",新加坡8频道
+mshd://p2p.aliiptv.com/live/channel8
+
+#EXTINF:-1 tvg-id="mewatch-97129" tvg-name="CHANNEL U" tvg-logo="https://res.aliiptv.com/static/img/channelu_1789391468.png" group-title="其它",CHANNEL U
+mshd://p2p.aliiptv.com/live/channelu
+
+#EXTINF:-1 tvg-id="now-322" tvg-name="新加坡亚洲新闻" tvg-logo="https://res.aliiptv.com/static/img/channelnewsasia_1789391497.png" group-title="新闻/其它",新加坡亚洲新闻
+mshd://p2p.aliiptv.com/live/channelnewsasia
+
+
+#EXTINF:-1 tvg-id="dafeng-19" tvg-name="Discovery 探索" tvg-logo="https://res.aliiptv.com/static/img/discovery_1789391735.png" group-title="纪录",Discovery 探索
+mshd://p2p.aliiptv.com/live/Discovery
+
+
+#EXTINF:-1 tvg-id="mytv-B" tvg-name="TVB Plus" tvg-logo="https://res.aliiptv.com/static/img/tvbPlus_1789391754.png" group-title="港澳",TVB Plus
+mshd://p2p.aliiptv.com/live/tvbPlus
+
+#EXTINF:-1 tvg-id="mytv-P" tvg-name="TVB明珠台" tvg-logo="https://res.aliiptv.com/static/img/tvbPearl_1789391776.png" group-title="港澳",TVB明珠台
+mshd://p2p.aliiptv.com/live/tvbPearl
+
+#EXTINF:-1 tvg-id="mytv-C" tvg-name="TVB无线新闻" tvg-logo="https://res.aliiptv.com/static/img/tvbNews_1789391797.png" group-title="新闻/港澳",TVB无线新闻
+mshd://p2p.aliiptv.com/live/tvbNews
+
+#EXTINF:-1 tvg-id="now-099" tvg-name="Viu TV" tvg-logo="https://res.aliiptv.com/static/img/ViuTV_1789391813.png" group-title="港澳",Viu TV
+mshd://p2p.aliiptv.com/live/ViuTV
+
+#EXTINF:-1 tvg-id="now-096" tvg-name="ViuTV six" tvg-logo="https://res.aliiptv.com/static/img/ViuTVsix_1789391830.png" group-title="港澳",ViuTV six
+mshd://p2p.aliiptv.com/live/ViuTVsix
+
+#EXTINF:-1 tvg-id="epgpw-368550" tvg-name="港台电视31" tvg-logo="https://res.aliiptv.com/static/img/rthktv31_1789391847.png" group-title="港澳",港台电视31
+mshd://p2p.aliiptv.com/live/rthktv31
+
+#EXTINF:-1 tvg-id="epgpw-368551" tvg-name="港台电视32" tvg-logo="https://res.aliiptv.com/static/img/rthktv32_1789391860.png" group-title="港澳",港台电视32
+mshd://p2p.aliiptv.com/live/rthktv32
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="now-548" tvg-name="凤凰卫视中文台" tvg-logo="https://res.aliiptv.com/static/img/fhwszwt_1789392066.png" group-title="新闻/港澳",凤凰卫视中文台
+mshd://p2p.aliiptv.com/live/HDPhxChinese
+#EXTINF:-1 tvg-id="now-548" tvg-name="凤凰卫视中文台" tvg-logo="https://res.aliiptv.com/static/img/fhwszwt_1789392066.png" group-title="新闻/港澳",凤凰卫视中文台
+fhx://fhzw
+
+#EXTINF:-1 tvg-id="now-366" tvg-name="凤凰卫视资讯台" tvg-logo="https://res.aliiptv.com/static/img/HDPhxInfonews_1789392075.png" group-title="新闻/港澳",凤凰卫视资讯台
+mshd://p2p.aliiptv.com/live/HDPhxInfonews
+#EXTINF:-1 tvg-id="now-366" tvg-name="凤凰卫视资讯台" tvg-logo="https://res.aliiptv.com/static/img/HDPhxInfonews_1789392075.png" group-title="新闻/港澳",凤凰卫视资讯台
+fhx://fhzx
+
+#EXTINF:-1 tvg-id="epgpw-410378" tvg-name="凤凰卫视香港台" tvg-logo="https://res.aliiptv.com/static/img/fhwsxgt_1789392085.png" group-title="新闻/港澳",凤凰卫视香港台
+mshd://p2p.aliiptv.com/live/HDPhxHK
+#EXTINF:-1 tvg-id="epgpw-410378" tvg-name="凤凰卫视香港台" tvg-logo="https://res.aliiptv.com/static/img/fhwsxgt_1789392085.png" group-title="新闻/港澳",凤凰卫视香港台
+fhx://fhhk
+
+#EXTINF:-1 tvg-id="mytv-CMAM" tvg-name="美亞電影台" tvg-logo="https://res.aliiptv.com/static/img/mydyt_1789391886.png" group-title="影视/港澳",美亞電影台
+mshd://p2p.aliiptv.com/live/MeiAhMovieChannel
+
+#EXTINF:-1 tvg-id="mytv-CCCM" tvg-name="天映經典" tvg-logo="https://res.aliiptv.com/static/img/ccm_1789391919.png" group-title="影视/港澳",天映經典
+mshd://p2p.aliiptv.com/live/CelestialClassicMovies
+
+#EXTINF:-1 tvg-id="dafeng-207" tvg-name="HBO HD" tvg-logo="https://res.aliiptv.com/static/img/hbohd_1789392144.png" group-title="影视",HBO HD
+mshd://p2p.aliiptv.com/live/HBOHD
+
+#EXTINF:-1 tvg-id="dafeng-205" tvg-name="HBO 家庭影院" tvg-logo="https://res.aliiptv.com/static/img/hbojtyy_1789392177.png" group-title="影视",HBO 家庭影院
+mshd://p2p.aliiptv.com/live/HBOfamilyHD
+
+#EXTINF:-1 tvg-id="dafeng-204" tvg-name="HBO 强档影院" tvg-logo="https://res.aliiptv.com/static/img/hboqdyy_1789392193.png" group-title="影视",HBO 强档影院
+mshd://p2p.aliiptv.com/live/HBOHitsHD
+
+#EXTINF:-1 tvg-id="dafeng-206" tvg-name="HBO 原创影院" tvg-logo="https://res.aliiptv.com/static/img/hbocyyy_1789392212.png" group-title="影视",HBO 原创影院
+mshd://p2p.aliiptv.com/live/HBOSignature
+
+#EXTINF:-1 tvg-id="cmc-my" tvg-name="天映频道" tvg-logo="https://res.aliiptv.com/static/img/tydy_1792317613.png" group-title="影视/其它",天映频道
+mshd://p2p.aliiptv.com/live/CELESTIALHD
+
+#EXTINF:-1 tvg-id="" tvg-name="私人影院" tvg-logo="https://res.aliiptv.com/static/img/cinep_1789392038.png" group-title="影视/港澳",私人影院
+mshd://p2p.aliiptv.com/live/cinep
+
+#EXTINF:-1 tvg-id="dafeng-66" tvg-name="東森洋片" tvg-logo="https://res.aliiptv.com/static/img/dsyp_1789729560.png" group-title="影视/其它",東森洋片
+mshd://p2p.aliiptv.com/live/dsyp
+
+#EXTINF:-1 tvg-id="dafeng-62" tvg-name="東森电影" tvg-logo="https://res.aliiptv.com/static/img/dsdy_1789729628.png" group-title="影视/其它",東森电影
+mshd://p2p.aliiptv.com/live/dsdy
+
+#EXTINF:-1 tvg-id="dafeng-40" tvg-name="東森戲劇" tvg-logo="https://res.aliiptv.com/static/img/dsxj_1789729657.png" group-title="影视/其它",東森戲劇
+mshd://p2p.aliiptv.com/live/dsxj
+
+#EXTINF:-1 tvg-id="dafeng-32" tvg-name="東森综合" tvg-logo="https://res.aliiptv.com/static/img/dszh_1789729689.png" group-title="其它",東森综合
+mshd://p2p.aliiptv.com/live/dszh
+
+#EXTINF:-1 tvg-id="dafeng-25" tvg-name="東森幼幼" tvg-logo="https://res.aliiptv.com/static/img/dsyy_1789729737.png" group-title="儿童/其它",東森幼幼
+mshd://p2p.aliiptv.com/live/dsyy
+
+#EXTINF:-1 tvg-id="dafeng-65" tvg-name="HBO" tvg-logo="https://res.aliiptv.com/static/img/hbotw_1789729785.png" group-title="影视/其它",HBO
+mshd://p2p.aliiptv.com/live/hbotw
+
+#EXTINF:-1 tvg-id="dafeng-72" tvg-name="纬来体育" tvg-logo="https://res.aliiptv.com/static/img/wlty_1789729828.png" group-title="体育/其它",纬来体育
+mshd://p2p.aliiptv.com/live/wlty
+
+#EXTINF:-1 tvg-id="dafeng-21" tvg-name="動物星球" tvg-logo="https://res.aliiptv.com/static/img/dwxq_1789729853.png" group-title="纪录/其它",動物星球
+mshd://p2p.aliiptv.com/live/dwxq
+
+#EXTINF:-1 tvg-id="dafeng-63" tvg-name="龍翔時代" tvg-logo="https://res.aliiptv.com/static/img/lxsd_1789729889.png" group-title="影视/其它",龍翔時代
+mshd://p2p.aliiptv.com/live/lstime
+
+#EXTINF:-1 tvg-id="homeplus-209-229" tvg-name="Warner TV" tvg-logo="https://res.aliiptv.com/static/img/warnertv_1789730034.png" group-title="影视/其它",Warner TV
+mshd://p2p.aliiptv.com/live/warnertv
+
+#EXTINF:-1 tvg-id="now-133" tvg-name="Now 爆谷台" tvg-logo="https://res.aliiptv.com/static/img/nowbgt_1789730163.png" group-title="影视/港澳",Now 爆谷台
+mshd://p2p.aliiptv.com/live/nowbg
+
+#EXTINF:-1 tvg-id="cmc-sg" tvg-name="天映电影" tvg-logo="https://res.aliiptv.com/static/img/tydy_1792317613.png" group-title="影视/其它",天映电影
+mshd://p2p.aliiptv.com/live/CelestialMoviesHD
+
+#EXTINF:-1 tvg-id="dafeng-68" tvg-name="好莱坞电影" tvg-logo="https://res.aliiptv.com/static/img/hlwdy_1792316437.png" group-title="影视/其它",好莱坞电影
+mshd://p2p.aliiptv.com/live/HAOLAIWU
+
+#EXTINF:-1 tvg-id="now-138" tvg-name="NOW 星影台" tvg-logo="https://res.aliiptv.com/static/img/bgxy_1789796904.png" group-title="影视/港澳",NOW 星影台
+mshd://p2p.aliiptv.com/live/bgxy
+
+#EXTINF:-1 tvg-id="dafeng-22" tvg-name="CN 卡通" tvg-logo="https://res.aliiptv.com/static/img/cnkt_1789796973.png" group-title="儿童/其它",CN 卡通
+mshd://p2p.aliiptv.com/live/cnkt
+
+#EXTINF:-1 tvg-id="dafeng-126" tvg-name="ROCK 动作电影" tvg-logo="https://res.aliiptv.com/static/img/corkaction_1789797156.png" group-title="影视/其它",ROCK 动作电影
+mshd://p2p.aliiptv.com/live/ROCKAction
+
+#EXTINF:-1 tvg-id="dafeng-97" tvg-name="MTV" tvg-logo="https://res.aliiptv.com/static/img/mtvhd_1789797333.png" group-title="其它",MTV
+mshd://p2p.aliiptv.com/live/mtvhd
+
+#EXTINF:-1 tvg-id="dafeng-70" tvg-name="CINEMAX" tvg-logo="https://res.aliiptv.com/static/img/cinemax_1789798904.png" group-title="影视/其它",CINEMAX
+mshd://p2p.aliiptv.com/live/cinemax
+
+#EXTINF:-1 tvg-id="dafeng-64" tvg-name="緯來電影台" tvg-logo="https://res.aliiptv.com/static/img/wldy_1789799056.png" group-title="影视/其它",緯來電影台
+mshd://p2p.aliiptv.com/live/wldy
+
+#EXTINF:-1 tvg-id="dafeng-84" tvg-name="BBC Lifestyle" tvg-logo="https://res.aliiptv.com/static/img/bbclifestyle_1789799092.png" group-title="纪录/其它",BBC Lifestyle
+mshd://p2p.aliiptv.com/live/BBCLifestyle
+
+#EXTINF:-1 tvg-id="dafeng-61" tvg-name="CatchPlay 电影台" tvg-logo="https://res.aliiptv.com/static/img/catchplay_1790588305.png" group-title="影视/其它",CatchPlay 电影台
+mshd://p2p.aliiptv.com/live/CatchPlay
+
+#EXTINF:-1 tvg-id="dafeng-24" tvg-name="MOMO 亲子台" tvg-logo="https://res.aliiptv.com/static/img/momomod_1790588357.png" group-title="儿童/其它",MOMO 亲子台
+mshd://p2p.aliiptv.com/live/momomod
+
+#EXTINF:-1 tvg-id="tdm-1" tvg-name="澳门澳视" tvg-logo="https://res.aliiptv.com/static/img/amas_1790588747.png" group-title="港澳",澳门澳视
+mshd://p2p.aliiptv.com/live/TDMOuMun
+
+#EXTINF:-1 tvg-id="" tvg-name="莲花卫视" tvg-logo="https://res.aliiptv.com/static/img/lotustv_1790589019.png" group-title="港澳",莲花卫视
+mshd://p2p.aliiptv.com/live/LotusTV
+
+#EXTINF:-1 tvg-id="tdm-8" tvg-name="澳门 Macau" tvg-logo="https://res.aliiptv.com/static/img/ammacau_1790589106.png" group-title="港澳",澳门 Macau
+mshd://p2p.aliiptv.com/live/AMacau
+
+#EXTINF:-1 tvg-id="now-332" tvg-name="NOW 新闻台" tvg-logo="https://res.aliiptv.com/static/img/nownews_1790679561.png" group-title="新闻/港澳",NOW 新闻台
+mshd://p2p.aliiptv.com/live/nowNews
+
+
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://res.aliiptv.com/static/img/tvn_1792328767.png" group-title="其它",tvN
+sop://br4.gmtv.net:80/20087
+
+#EXTINF:-1 tvg-id="cht-0000000058" tvg-name="美亚电影HD" tvg-logo="https://res.aliiptv.com/static/img/mydyhd_1792997203.png" group-title="影视/其它",美亚电影HD
+mshd://p2p.aliiptv.com/live/MEIYACN
+
+#EXTINF:-1 tvg-id="cht-0000000059" tvg-name="龍華電影" tvg-logo="https://res.aliiptv.com/static/img/lhdy_1792997309.png" group-title="影视/其它",龍華電影
+mshd://p2p.aliiptv.com/live/LTVMovies
+
+#EXTINF:-1 tvg-id="hoy-77" tvg-name="HOY TV" tvg-logo="https://res.aliiptv.com/static/img/hoy77_1792997574.png" group-title="港澳",HOY TV
+http://p-drm.aliiptv.com/live/HOYTV.m3u8
+#EXTINF:-1 tvg-id="hoy-77" tvg-name="HOY TV" tvg-logo="https://res.aliiptv.com/static/img/hoy77_1792997574.png" group-title="港澳",HOY TV
+mshd://p2p.aliiptv.com/live/HOYTV
+
+#EXTINF:-1 tvg-id="hoy-78" tvg-name="HOY 资讯台" tvg-logo="https://res.aliiptv.com/static/img/hoy78_1792997473.png" group-title="新闻/港澳",HOY 资讯台
+http://p-drm.aliiptv.com/live/hottv78.m3u8
+#EXTINF:-1 tvg-id="hoy-78" tvg-name="HOY 资讯台" tvg-logo="https://res.aliiptv.com/static/img/hoy78_1792997473.png" group-title="新闻/港澳",HOY 资讯台
+mshd://p2p.aliiptv.com/live/hottv78
+
+#EXTINF:-1 tvg-id="hoy-76" tvg-name="香港国际财经台" tvg-logo="https://res.aliiptv.com/static/img/hoy76_1792997629.png" group-title="新闻/港澳",香港国际财经台
+http://p-drm.aliiptv.com/live/hoy76.m3u8
+#EXTINF:-1 tvg-id="hoy-76" tvg-name="香港国际财经台" tvg-logo="https://res.aliiptv.com/static/img/hoy76_1792997629.png" group-title="新闻/港澳",香港国际财经台
+mshd://p2p.aliiptv.com/live/hoy76
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="mytv-CKIX" tvg-name="KIX HD" tvg-logo="https://res.aliiptv.com/static/img/kix_1793966242.png" group-title="影视/港澳",KIX HD
+mshd://p2p.aliiptv.com/live/kix
+
